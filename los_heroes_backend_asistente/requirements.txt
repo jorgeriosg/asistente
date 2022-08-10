@@ -1,0 +1,19 @@
+pytz==2017.3
+requests==2.21.0
+config==0.4.0
+Flask==1.0.2
+flask-session==0.3.1
+Flask_Mail==0.9.1
+Flask_Cors==3.0.3
+Werkzeug==0.14.1
+pymongo==3.5.1
+pandas==0.25.3
+PyMySQL==0.7.11
+sendgrid==5.4.0
+ibm_watson==5.1.0
+python-dotenv==0.10.1
+sites==0.0.1
+unidecode==1.1.2
+-i https://pypi.mycognitiva.io/
+cognitiva_xss_3==1.1.2
+logging_cognitiva==1.0.4

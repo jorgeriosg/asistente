@@ -1,0 +1,11 @@
+#BackEnd/Logs
+*.pyc
+*.log
+*.idea
+*.idea/
+Logs/*
+BackEnd/Logs/*
+logging.json
+venv*
+.vscode/
+*.env
